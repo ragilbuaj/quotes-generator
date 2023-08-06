@@ -8,7 +8,7 @@ function App() {
 				<h1 className='font-Merriweather font-bold text-3xl'>
 					Quotes Generator
 				</h1>
-				<p className='text-center text-sm'>built by Ragil Budhi Ajie</p>
+				<p className='text-center text-sm'>build by Ragil Budhi Ajie</p>
 			</div>
 			<Landing />
 		</main>
